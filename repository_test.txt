@@ -13,3 +13,5 @@ La la la new version just so you can see it in the graph :)
 MAKING ANOTHER BRANCH called "Branch-C"
 
 //OH hi! I am in Branch-C not the master branch
+
+Oh well hello there! Shera can now watch and edit this repository :D
